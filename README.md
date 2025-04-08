@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Asahi-UX/Asahi-UX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,5 +52,5 @@ Jira, Confluence, Excel, Linux
 ...
 
 ## 📫 Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-@Asahi_Alex-blue)](https://t.me/@Asahi_Alex)
+[![Telegram](https://img.shields.io/badge/Telegram-Asahi_Alex-blue)](https://t.me/@Asahi_Alex)
 [![Email](https://img.shields.io/badge/Email-2010016%40mail.ru-red)](mailto:2010016@mail.ru)
