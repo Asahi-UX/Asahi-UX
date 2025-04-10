@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-orange)](https://pandas.pydata.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue?logo=postgresql)](https://postgresql.org)
 
+Аналитик данных с опытом программирования и глубокого анализа данных. Владею современными инструментами обработки и анализа данных, активно развиваюсь в направлении Data Engineering. Быстро осваиваю новые технологии и методики анализа.
+
 ## 🛠 Технологии
 **Основные**:  
-Python, Библиотеки(Pandas, Requests,) PostgreSQL, Git, Docker, REST API
+Python (Pandas, Numpy, Seaborn, Matplotlib), PostgreSQL, Git, Docker, REST API, Excel, DataLens, Data Analysis, Data Visualization
 
 **Изучаю**:  
 Airflow, ClickHouse, MongoDB
