@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-orange)](https://pandas.pydata.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue?logo=postgresql)](https://postgresql.org)
 
-Аналитик данных с опытом программирования и глубокого анализа данных. Владею современными инструментами обработки и анализа данных, активно развиваюсь в направлении Data Engineering. Быстро осваиваю новые технологии и методики анализа.
+Аналитик данных с опытом программирования и анализа данных. Владею современными инструментами обработки и анализа данных, активно развиваюсь в направлении Data Engineering. Осваиваю новые технологии и методики анализа.
 
 ## 🛠 Технологии
 **Основные**:  
@@ -44,7 +44,7 @@ Jira, Confluence, Excel, Linux
 
 ### 3. Telegram бот для трейдинга
 [Исходный код](/telegram-stock-bot)
-- Парсинг данных с Yahoo Finance API
+- Парсинг данных 
 <!--
 - Реализация:
   - /price AAPL
@@ -54,5 +54,5 @@ Jira, Confluence, Excel, Linux
 ...
 
 ## 📫 Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-Asahi_Alex-blue)](https://t.me/@Asahi_Alex)
-[![Email](https://img.shields.io/badge/Email-2010016%40mail.ru-red)](mailto:2010016@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-Asahi_Alex-blue)](https://t.me/@Asahi_Alex')
+[![Email](https://img.shields.io/badge/Email-2010016%40mail.ru-red)]('mailto:2010016@mail.ru')
