@@ -56,3 +56,5 @@ Jira, Confluence, Excel, Linux
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-Asahi_Alex-blue)](https://t.me/@Asahi_Alex)
 [![Email](https://img.shields.io/badge/Email-2010016%40mail.ru-red)](mailto:2010016@mail.ru)
+[](https://t.me/@Asahi_Alex)
+[](mailto:2010016@mail.ru)
